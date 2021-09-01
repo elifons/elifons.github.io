@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: http://elifons.github.io/sitemap.xml

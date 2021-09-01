@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Elizabeth Fons</title>
+    <link>http://elifons.github.io/tags/</link>
+      <atom:link href="http://elifons.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 Jan 2021 17:31:39 +0100</lastBuildDate>
+    <image>
+      <url>http://elifons.github.io/media/icon_hu43c903b37fe4b7bd9c634223c8fbfb91_83373_512x512_fill_lanczos_center_2.png</url>
+      <title>Tags</title>
+      <link>http://elifons.github.io/tags/</link>
+    </image>
+    
+  </channel>
+</rss>

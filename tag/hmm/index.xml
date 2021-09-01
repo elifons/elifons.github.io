@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HMM | Elizabeth Fons</title>
+    <link>http://elifons.github.io/tag/hmm/</link>
+      <atom:link href="http://elifons.github.io/tag/hmm/index.xml" rel="self" type="application/rss+xml" />
+    <description>HMM</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 May 2019 16:50:14 +0100</lastBuildDate>
+    <image>
+      <url>http://elifons.github.io/media/icon_hu43c903b37fe4b7bd9c634223c8fbfb91_83373_512x512_fill_lanczos_center_2.png</url>
+      <title>HMM</title>
+      <link>http://elifons.github.io/tag/hmm/</link>
+    </image>
+    
+    <item>
+      <title>Feature Saliency HMM</title>
+      <link>http://elifons.github.io/project/fshmm/</link>
+      <pubDate>Fri, 10 May 2019 16:50:14 +0100</pubDate>
+      <guid>http://elifons.github.io/project/fshmm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

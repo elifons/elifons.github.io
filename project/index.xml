@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Elizabeth Fons</title>
+    <link>http://elifons.github.io/project/</link>
+      <atom:link href="http://elifons.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Aug 2021 00:41:36 +0100</lastBuildDate>
+    <image>
+      <url>http://elifons.github.io/media/icon_hu43c903b37fe4b7bd9c634223c8fbfb91_83373_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>http://elifons.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Time GANs</title>
+      <link>http://elifons.github.io/project/gans/</link>
+      <pubDate>Wed, 11 Aug 2021 00:41:36 +0100</pubDate>
+      <guid>http://elifons.github.io/project/gans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Analysis</title>
+      <link>http://elifons.github.io/project/stats/</link>
+      <pubDate>Mon, 10 May 2021 16:42:56 +0100</pubDate>
+      <guid>http://elifons.github.io/project/stats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Saliency HMM</title>
+      <link>http://elifons.github.io/project/fshmm/</link>
+      <pubDate>Fri, 10 May 2019 16:50:14 +0100</pubDate>
+      <guid>http://elifons.github.io/project/fshmm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RL: multi-agent</title>
+      <link>http://elifons.github.io/project/rl3/</link>
+      <pubDate>Mon, 11 Mar 2019 00:02:09 +0100</pubDate>
+      <guid>http://elifons.github.io/project/rl3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RL: actor-critic</title>
+      <link>http://elifons.github.io/project/rl2/</link>
+      <pubDate>Mon, 11 Feb 2019 00:02:06 +0100</pubDate>
+      <guid>http://elifons.github.io/project/rl2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RL: deep Q-learning</title>
+      <link>http://elifons.github.io/project/rl/</link>
+      <pubDate>Thu, 10 Jan 2019 16:42:36 +0100</pubDate>
+      <guid>http://elifons.github.io/project/rl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical Methods for PDEs</title>
+      <link>http://elifons.github.io/project/num-methods/</link>
+      <pubDate>Thu, 10 Jan 2013 16:45:18 +0100</pubDate>
+      <guid>http://elifons.github.io/project/num-methods/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
